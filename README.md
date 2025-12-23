@@ -61,7 +61,8 @@ Le pipeline s’exécute automatiquement pour chaque branche détectée par Jenk
 
 ### 🔹 Capture 3 : Pipeline réussi
 
-![Pipeline réussi](images/success.png)
+<img width="1410" height="528" alt="{79DC6B6A-77B7-4B72-B85F-B3555495EAD1}" src="https://github.com/user-attachments/assets/8c55df66-6453-4587-9850-d606f2f48d8b" />
+
 
 
 
