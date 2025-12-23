@@ -51,13 +51,10 @@ Le fichier **`Jenkinsfile`** est présent à la racine du projet.
 
 Le pipeline s’exécute automatiquement pour chaque branche détectée par Jenkins.
 
-### 🔹 Capture 1 : Détection des branches
+### 🔹 Capture 1 : Détection des branches et Exécution du pipeline
 
-![Détection des branches](images/branches.png)
+![WhatsApp Image 2025-12-23 at 22 28 24](https://github.com/user-attachments/assets/8845a4cf-55c1-4e31-8bcb-fd2c1981dc20)
 
-### 🔹 Capture 2 : Exécution du pipeline
-
-![Exécution du pipeline](images/pipeline-run.png)
 
 ### 🔹 Capture 3 : Pipeline réussi
 
